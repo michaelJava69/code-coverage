@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Code Coverage with Jacoco,default,FizzBuzz,4,27,1,5,1,6,1,4,0,2
+Code Coverage with Jacoco,default,Circle,40,0,0,0,9,0,4,0,4,0
+Code Coverage with Jacoco,com.objectpartners,Dummy,16,0,0,0,7,0,4,0,4,0
+Code Coverage with Jacoco,com.objectpartners,EverythingTransfer,125,0,0,0,53,0,36,0,36,0
